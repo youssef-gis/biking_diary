@@ -19,7 +19,7 @@ export const SAVED_ACTIVITIES: IActivity[]=[
   },
   {
     id: 3,
-    name: 'Biking to souk',
+    name: 'Biking to super market',
     date: new Date('07/28/2017'),
     distance: 3.01,
     comments: 'Nice day',
@@ -27,7 +27,7 @@ export const SAVED_ACTIVITIES: IActivity[]=[
   },
   {
     id: 4,
-    name: 'Biking to hamam',
+    name: 'Biking to park',
     date: new Date('07/29/2017'),
     distance: 5.01,
     comments: 'Nice day',
